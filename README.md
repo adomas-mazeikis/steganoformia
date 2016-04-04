@@ -1,0 +1,2 @@
+# steganoformia
+Steganography experimentation library
